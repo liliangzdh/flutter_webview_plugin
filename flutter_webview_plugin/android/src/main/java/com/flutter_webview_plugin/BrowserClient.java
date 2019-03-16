@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by lejard_h on 20/12/2017.
+ * Created by asasal on 20/12/2017.
  */
 
 public class BrowserClient extends WebViewClient {
